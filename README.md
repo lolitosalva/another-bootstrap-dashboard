@@ -10,6 +10,4 @@ Another dashboard lab done with Bootstrap 4. This is a prototype solution for pr
 
 If he looked at the “save for later” list, it would be really nice to be able to see which
 categories each recipe was saved under. For example, if he was looking for a recipe to
-do, he might say “Hey, Christmas is coming up, let’s see what I saved under the
-‘Holidays’ category. Since he has a backlog of recipes sent to him via email, Anthony would also like to be
-able to create a “new” recipe easily, where he enters all the data for it from the start. "
+do, he might look what he saved under the ‘Holidays’ category. Since he has a backlog of recipes sent to him via email, Anthony would also like to be able to create a “new” recipe easily, where he enters all the data for it from the start. "
