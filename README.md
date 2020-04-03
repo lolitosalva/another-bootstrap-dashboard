@@ -7,6 +7,6 @@ If he looked at the “save for later” list, it would be really nice to be abl
 categories each recipe was saved under. For example, if he was looking for a recipe to
 do, he might look what he saved under the ‘Holidays’ category. Since he has a backlog of recipes sent to him via email, Anthony would also like to be able to create a “new” recipe easily, where he enters all the data for it from the start. "
 
-**_Update 3: 3 April, 2020_**
+**_Update 1: 3 April, 2020_**
 
 - User test indicate that I missed a single feature with the website. It was the option to immediately edit and publish a recipe while viewing. I added another button on the view recipe page that will lead you to the edit and publish page.
