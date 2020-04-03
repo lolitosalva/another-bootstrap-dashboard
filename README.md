@@ -5,8 +5,8 @@ Another dashboard lab done with Bootstrap 4. This is a prototype solution for pr
 >"Anthony would like you to design the user interface that would allow him to edit, categorize, and publish recipes. Anthony gets a lot of recipes but he can only publish about 1 or 2 per week. He would like it to be easy for him to look at every recipe received, in order which they were received, and make a quick decision on each one:
 
 >- skip it entirely
-- save it for later, or
-- proceed with editing and publishing
+>- save it for later, or
+>- proceed with editing and publishing
 
 >If he looked at the “save for later” list, it would be really nice to be able to see which
 categories each recipe was saved under. For example, if he was looking for a recipe to
